@@ -157,4 +157,4 @@ archive were intentionally left out of this repo.
 
 ## License
 
-TBD — see the repository owner.
+[Apache License 2.0](LICENSE)
